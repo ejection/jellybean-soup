@@ -1,6 +1,6 @@
 # jellybean-soup
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://github.com/ejection/jellybean-soup/blob/master/beans.webp)
 
 tHegoodstuff
 
